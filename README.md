@@ -1,16 +1,11 @@
-# flutter_quotes_provider
+# flutter quotes provider
 
-A new Flutter project.
+A new Flutter project about Quotes. 
 
-## Getting Started
+Build with :
 
-This project is a starting point for a Flutter application.
+- API
+- Provider State Management
+- Google Fonts
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Artboard](https://user-images.githubusercontent.com/87839081/129852231-c1592bf0-0403-413e-b8f8-2e1c895ec36d.png)
